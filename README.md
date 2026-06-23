@@ -8,7 +8,7 @@
     <br/>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=1&pause=99999999&color=F03C2E&center=true&vCenter=true&width=500&height=60&lines=Ahmad+Salar+%F0%9F%91%8B" alt="Ahmad Salar" />
     <br/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=The+DevOps+Architect;I+Build.+I+Automate.+I+Scale." alt="Roles" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&height=50&lines=A+DevOps+Architect;I+Build.+I+Automate.+I+Scale." alt="Roles" />
   </p>
 
   <h3>🚀 Elite DevOps Engineer &nbsp;|&nbsp; Cloud Automation Expert &nbsp;|&nbsp; Future Platform Engineering Leader 🚀</h3>
